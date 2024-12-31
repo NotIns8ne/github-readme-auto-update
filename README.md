@@ -86,61 +86,61 @@ python update_readme.py
 
 ---
 
-## Advanced Customization
+# Advanced Customization
 If you want to customize the output or modify how the script works, you can edit the following sections in update_readme.py:
 
-### Profile Content:
+## Profile Content:
 Modify the generate_readme_content function to customize how your profile's README.md is structured.
 
-### Repository Filters:
+## Repository Filters:
 Update the get_github_activity function to filter repositories by specific criteria (e.g., visibility, topics, etc.).
 
 ---
 
-## Future Features
+# Future Features
 This project is continuously evolving! Here’s what’s planned for future updates:
 
 🌟 Highlighting Top Projects
 
-##### Automatically display your most important repositories based on:
+#### Automatically display your most important repositories based on:
 Number of stars
 Forks
 Last updated date
 A custom priority list.
 📊 Dynamic Stats Section
 
-##### Include GitHub profile stats like:
+#### Include GitHub profile stats like:
 Total stars across all repositories.
 Total forks.
 Total contributions over the past year.
 Most used programming languages.
 ⭐ Featured Repositories
 
-##### Allow you to mark specific repositories as "featured" to always display at the top of your profile README.
+#### Allow you to mark specific repositories as "featured" to always display at the top of your profile README.
 📝 Profile Bio Integration
 
-##### Fetch and display additional details from your GitHub profile, such as:
+#### Fetch and display additional details from your GitHub profile, such as:
 Location
 Bio
 Hireable status.
 📈 Contribution Graph
 
-##### Display a visual graph of your contributions over time to highlight your activity.
+#### Display a visual graph of your contributions over time to highlight your activity.
 🏷️ Repository Badges
 
-##### Add informative badges for each repository, such as:
+#### Add informative badges for each repository, such as:
 Build status
 License type
 Number of stars and forks.
 🔖 Repository Topics and Tags
 
-##### Include tags or topics (e.g., "AI," "Full-Stack," "Python") to make repositories easily searchable and better categorized.
+#### Include tags or topics (e.g., "AI," "Full-Stack," "Python") to make repositories easily searchable and better categorized.
 👀 Profile Visits Counter
 
-##### Show a dynamic counter that tracks the number of profile visitors.
+#### Show a dynamic counter that tracks the number of profile visitors.
 🔗 Social Links
 
-##### Add links to your other online profiles, such as:
+#### Add links to your other online profiles, such as:
 LinkedIn
 Twitter
 Personal website or portfolio.
