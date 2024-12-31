@@ -73,12 +73,14 @@ setx GITHUB_TOKEN "your_github_token_here"
 ```bash
 export GITHUB_TOKEN="your_github_token_here"
 ```
-### Customize the Script: Update the GITHUB_USERNAME in update_readme.py to your GitHub username:
+#### Customize the Script:
+Update the GITHUB_USERNAME in update_readme.py to your GitHub username:
 
 ```python
 GITHUB_USERNAME = "YourGitHubUsername"
 ```
-### Run the Script: Execute the script to generate and push your profile README.md:
+#### Run the Script:
+Execute the script to generate and push your profile README.md:
 
 ```bash
 python update_readme.py
