@@ -103,32 +103,31 @@ Update the get_github_activity function to filter repositories by specific crite
 
 This project is continuously evolving! Here’s what’s planned for future updates:
 
-🌟 Highlighting Top Projects
-
-#### - Automatically display your most important repositories based on:
+#### - 🌟 Highlighting Top Projects
+Automatically display your most important repositories based on:
 Number of stars
 Forks
 Last updated date
 A custom priority list.
-📊 Dynamic Stats Section
 
-#### - Include GitHub profile stats like:
+#### - 📊 Dynamic Stats Section
+Include GitHub profile stats like:
 Total stars across all repositories.
 Total forks.
 Total contributions over the past year.
 Most used programming languages.
-⭐ Featured Repositories
 
-#### - Allow you to mark specific repositories as "featured" to always display at the top of your profile README.
-📝 Profile Bio Integration
+#### - ⭐ Featured Repositories
+Allow you to mark specific repositories as "featured" to always display at the top of your profile README.
 
-#### - Fetch and display additional details from your GitHub profile, such as:
+#### - 📝 Profile Bio Integration
+Fetch and display additional details from your GitHub profile, such as:
 Location
 Bio
 Hireable status.
-📈 Contribution Graph
 
-#### - Display a visual graph of your contributions over time to highlight your activity.
+#### - 📈 Contribution Graph
+Display a visual graph of your contributions over time to highlight your activity.
 
 #### - 🏷️ Repository Badges
 Add informative badges for each repository, such as:
