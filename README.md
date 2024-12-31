@@ -28,14 +28,18 @@ Welcome to my GitHub profile! Here's a snapshot of my public repositories:
 
 **Last Updated:** 2024-12-31
 
+[View Repository](https://github.com/SyntaxSkater/github-readme-auto-update)
+
 ---
 
 ## SyntaxSkater
-**Description:** Config files for my GitHub profile.
+**Description:** Config files for my GitHub profile you see at https://github.com/SyntaxSkater
 
 **Languages:** No languages detected
 
 **Last Updated:** 2024-12-31
+
+[View Repository](https://github.com/SyntaxSkater/SyntaxSkater)
 
 ---
 
