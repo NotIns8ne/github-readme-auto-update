@@ -88,7 +88,7 @@ If you want to customize the output or modify how the script works, you can edit
 #### Profile Content:
 Modify the generate_readme_content function to customize how your profile's README.md is structured.
 
-### Repository Filters:
+#### Repository Filters:
 Update the get_github_activity function to filter repositories by specific criteria (e.g., visibility, topics, etc.).
 
 ---
