@@ -79,14 +79,19 @@ GITHUB_USERNAME = "YourGitHubUsername"
 ```bash
 python update_readme.py
 ```
+
+---
+
 ## Advanced Customization
 If you want to customize the output or modify how the script works, you can edit the following sections in update_readme.py:
 
-### Profile Content:
+#### Profile Content:
 Modify the generate_readme_content function to customize how your profile's README.md is structured.
 
 ### Repository Filters:
 Update the get_github_activity function to filter repositories by specific criteria (e.g., visibility, topics, etc.).
+
+---
 
 ## Contributing
 Feel free to fork this repository and contribute! Submit a pull request with your changes, and I'll review them.
