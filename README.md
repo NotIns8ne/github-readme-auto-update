@@ -99,7 +99,7 @@ Update the get_github_activity function to filter repositories by specific crite
 
 ---
 
-# Future Features
+## Future Features
 
 This project is continuously evolving! Here’s what’s planned for future updates:
 
@@ -129,21 +129,21 @@ Hireable status.
 📈 Contribution Graph
 
 #### - Display a visual graph of your contributions over time to highlight your activity.
-🏷️ Repository Badges
 
-#### - Add informative badges for each repository, such as:
+#### - 🏷️ Repository Badges
+Add informative badges for each repository, such as:
 Build status
 License type
 Number of stars and forks.
-🔖 Repository Topics and Tags
 
-#### - Include tags or topics (e.g., "AI," "Full-Stack," "Python") to make repositories easily searchable and better categorized.
-👀 Profile Visits Counter
+#### - 🔖 Repository Topics and Tags
+Include tags or topics (e.g., "AI," "Full-Stack," "Python") to make repositories easily searchable and better categorized.
 
-#### - Show a dynamic counter that tracks the number of profile visitors.
-🔗 Social Links
+#### - 👀 Profile Visits Counter
+Show a dynamic counter that tracks the number of profile visitors.
 
-#### - Add links to your other online profiles, such as:
+#### - 🔗 Social Links
+Add links to your other online profiles, such as:
 LinkedIn
 Twitter
 Personal website or portfolio.
